@@ -1,0 +1,14 @@
+# Never commit these
+*.pkl
+*.tar.gz
+*.csv
+*.env
+.env.*
+__pycache__/
+.cache/
+model_artifacts/
+*_audit.csv
+city_disease_timeseries.csv
+
+# Colab cache
+.ipynb_checkpoints/
