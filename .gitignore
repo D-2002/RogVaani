@@ -1,6 +1,7 @@
 # Never commit these
 *.pkl
 *.tar.gz
+*.zip
 *.csv
 *.env
 .env.*
